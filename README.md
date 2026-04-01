@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jacob Grimm
 
-<!--
-**jmg-cs/jmg-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+User-centered software engineer building dependable full-stack products with smooth user experiences.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Chronologicle](https://chronologicle.com) — daily history game
+- [Sonikara](https://sonikara.com) — music creation tool
+- [Pixel Fish](https://pixel-fish-6d412.web.app) — fishing game with over 200 unique fish to catch
+- [Showdown Poker](https://showdownpoker.vercel.app) — poker prototype with provably fair RNG
+
+## Connect
+
+- [Portfolio](https://jacobgrimm.com)
+- Email: jacobgrimmbusiness@gmail.com
